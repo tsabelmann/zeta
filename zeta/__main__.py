@@ -1,4 +1,4 @@
-""""""
+"""This module implements the zeta module hook."""
 
 from zeta.frontend import main
 
